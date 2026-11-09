@@ -43,6 +43,12 @@ A Flutter project spanning an iPhone parent app, Android child app, native integ
 
 <sub>Build requirements, platform limitations, and verification status are documented in the repository.</sub>
 
+## Moolya India
+
+[MoolyaHost](https://moolyaindiapvtltd.com/) is Moolya India Private Limited’s VPS hosting service. The public site lists managed and self-managed plans and accepts hosting enquiries.
+
+[Browse the earlier Moolya India company website source](https://github.com/ansu9932/moolyaindia).
+
 ## My technical toolkit
 
 | Area | Technologies used across these projects |
