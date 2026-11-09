@@ -47,6 +47,10 @@ A Flutter project spanning an iPhone parent app, Android child app, native integ
 
 [MoolyaHost](https://moolyaindiapvtltd.com/) is Moolya India Private Limited’s VPS hosting service. The public site lists managed and self-managed plans and accepts hosting enquiries.
 
+**MoolyaHost VPS portal prototype.** Try simulated server provisioning, start, stop, restart, and the activity log.
+
+[Launch the demo](https://ansu9932.github.io/moolyahost-portal-demo/) · [View the prototype source](https://github.com/ansu9932/moolyahost-portal-demo)
+
 [Browse the earlier Moolya India company website source](https://github.com/ansu9932/moolyaindia).
 
 ## My technical toolkit
